@@ -13,6 +13,7 @@ ________________________________
 Installation
 ________________________________
 Clone the repository
+https://github.com/jhaavilash/Django-notes_App.git
 
 Build the app
 
