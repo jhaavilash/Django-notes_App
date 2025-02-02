@@ -1,15 +1,15 @@
 # Django-notes_App
 
 This is a simple notes app built with React and Django.
-
+_____________________________
 Requirements
-________________________
+_____________________________
 Python 3.9
 
 Node.js
 
 React
-
+________________________________
 Installation
 ________________________________
 Clone the repository
